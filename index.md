@@ -1,7 +1,7 @@
 <html lang="fr">
     <head>
         <meta charset="utf-8">
-        <link rel="stylesheet" href="https://raw.githack.com/DEVELOPPEURR/wikiplantes/main/projet.css">
+        <link rel="stylesheet" href="https://github.com/DEVELOPPEURRR/Wikiplantes/blob/main/projet.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
     <header >
@@ -17,22 +17,20 @@
             <nav>
                 <ul>
                     <li class="">
-                        <a href="projet.html">
+                        <a href="https://raw.githack.com/DEVELOPPEURRR/Wikiplantes/main/projet.html">
                             Accueil
                         </a>
                     </li>    
                     <li class="">
-                            <a href="https://raw.githack.com/DEVELOPPEURR/wikiplantes/main/page1.html">        
+                            <a href="https://raw.githack.com/DEVELOPPEURRR/Wikiplantes/main/page1.html">        
                                 plantes d'extérieur
                             </a>
                         </li>
                         <li class="">
-                            <a href="https://raw.githack.com/DEVELOPPEURR/wikiplantes/main/page2.html">
+                            <a href="https://raw.githack.com/DEVELOPPEURRR/Wikiplantes/main/page2.html">
                                 plantes d'intérieur
                             </a>
                         </li>
-                        
-                        
                 </ul>
             </nav>
         </div>   
