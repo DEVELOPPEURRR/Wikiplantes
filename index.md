@@ -1,7 +1,8 @@
 <html lang="fr">
     <head>
+        <title>wikiplants</title>
         <meta charset="utf-8">
-        <link rel="stylesheet" href="https://github.com/DEVELOPPEURRR/Wikiplantes/blob/main/projet.css">
+        <link rel="stylesheet" href="https://raw.githack.com/DEVELOPPEURRR/Wikiplantes/main/projet.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     </head>
     <header >
@@ -31,6 +32,8 @@
                                 plantes d'intérieur
                             </a>
                         </li>
+                        
+                        
                 </ul>
             </nav>
         </div>   
@@ -58,7 +61,7 @@
             </tr>
         </table><br><br>
 
-        <h1>wwwwwwwwwwwwwwwwwwwwww</h1><br><br>
+        <h1>-----------------------------------------------------------------------------------------------------</h1><br><br>
         <table border="1" class="tb" width="100%">
             <tr>
                 <td><div class="cls"><li><a href="">categorie 2</a></li></div></td>
