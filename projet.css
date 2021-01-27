@@ -1,0 +1,103 @@
+body {
+  width: 100%;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+header{
+  background-color: rgb(238, 237, 225);
+  padding-top:2% ;
+  border-bottom: rgb(8, 8, 8);
+}
+a{
+  text-decoration: none;
+}
+.class1 img{
+  padding-left: 1%;
+  font-size: 1px;
+  float: left;
+  width: 18%;
+} 
+
+* {
+  box-sizing: border-box;
+}
+
+form.example input[type=text] {
+  padding: 10px ;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+}
+
+form.example button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #b6c7a0;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
+
+form.example button:hover {
+  background: #089620;
+}
+
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.class2 nav {
+  background-color:rgb(19, 39, 63);
+  height: 60px;
+  border-radius: 1px;
+  -webkit-border-radius:5px;
+  -moz-border-radius:5px;
+}
+a:link, a:visited {
+  color: rgb(178, 194, 174);
+  display: inline;
+}
+a:hover, a:active {
+  color: rgb(5, 5, 5);
+}
+.class2 nav ul {
+   
+ list-style: none;
+}
+.class2 nav ul li {
+  display: inline;
+ }
+ .class2 nav ul li a:link , .class2 nav ul li a:visited{
+  padding: 2% 11%;
+   display: inline-block;
+   height: 20px;
+ }
+ .class2 nav ul li a:hover , .class2 nav ul li a:active{
+ background-color: rgb(238, 237, 225);
+ height: 60px;
+ }
+
+ table, td {
+  border: 1px solid rgb(15, 15, 15);
+  border-collapse: collapse;
+}
+td {
+  padding: 100px ;
+}
+.cls li{
+  list-style: none;
+
+}
+
+
+
+
+
+
+
