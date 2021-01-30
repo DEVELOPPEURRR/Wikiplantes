@@ -11,8 +11,7 @@
             <button type="submit"><i class="fa fa-search"></i></button>
           </form>           
         </div>
-               
-        <div class="class2"> 
+         <div class="class2"> 
             <nav>
                 <ul>
                     <li class="">
@@ -29,9 +28,7 @@
                             <a href="https://raw.githack.com/DEVELOPPEURRR/Wikiplantes/main/page2.html">
                                 plantes d'intérieur
                             </a>
-                        </li>
-                        
-                        
+                       </li>
                 </ul>
             </nav>
         </div>   
@@ -58,8 +55,7 @@
                 </td>
             </tr>
         </table><br><br>
-
-        <h1>wwwwwwwwwwwwwwwwwwwwww</h1><br><br>
+        <h1>----------------------------------</h1><br><br>
         <table border="1" class="tb" width="100%">
             <tr>
                 <td><div class="cls"><li><a href="">categorie 2</a></li></div></td>
@@ -76,5 +72,4 @@
         </table>
     </body>
     <footer></footer>
-
 </html>
